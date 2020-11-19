@@ -1,6 +1,6 @@
 <template>
-  <div class="container max-w-none mx-auto bg-gray-100 min-h-screen">
-    <div class="pt-20 text-center">
+  <div class="container max-w-none mx-auto p-20">
+    <div class="text-center">
 
       <Logo />
 
@@ -26,9 +26,4 @@ export default {}
 </script>
 
 <style>
-/* Sample `apply` at-rules with Tailwind CSS
-.container {
-@apply min-h-screen flex justify-center items-center text-center mx-auto;
-}
-*/
 </style>

@@ -1,7 +1,10 @@
 ---
 title: 'Awesome Javascript Library'
 description: 'A Collection of Javascript Library'
-author: 'Aung Yin'
+author:
+  name: 'Aung Yin'
+  bio: 'A Nuxt Java Developer, Football enthusiast.'
+  image: 'aungyin.jpg'
 ---
 # Awesome Javascript Library
 

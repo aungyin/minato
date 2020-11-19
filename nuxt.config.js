@@ -44,7 +44,7 @@ export default {
 
   // Nuxt Content Configuration
   content: {
-    liveEdit: true,
+    liveEdit: false,
     markdown: {
       prism: {
         theme: 'prism-themes/themes/prism-material-oceanic.css'

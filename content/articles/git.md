@@ -1,7 +1,10 @@
 ---
 title: 'Git Commands & Config'
 description: 'A Collection of Git Commands and Configs'
-author: 'Aung Yin'
+author:
+  name: 'Aung Yin'
+  bio: 'A Nuxt Java Developer, Football enthusiast.'
+  image: 'aungyin.jpg'
 ---
 
 # Git Commands & Config
@@ -20,6 +23,11 @@ git branch -m old_name new_name
 ### Reset/Change upstream branch
 ```bash
 git branch -u branch_name
+```
+
+### Previous branch
+```bash
+git checkout -
 ```
 
 ---
