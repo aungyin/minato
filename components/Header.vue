@@ -3,10 +3,10 @@
     <nav>
       <ul class="flex justify-center space-x-10 py-6">
         <li>
-          <NuxtLink class="hover:underline hover:text-green-800" to="/">Home</NuxtLink>
+          <NuxtLink class="hover:underline hover:text-green-800 focus:outline-none" to="/">Home</NuxtLink>
         </li>
         <li>
-          <NuxtLink class="hover:underline hover:text-green-800" to="/blog">Blog</NuxtLink>
+          <NuxtLink class="hover:underline hover:text-green-800 focus:outline-none" to="/blog">Blog</NuxtLink>
         </li>
       </ul>
     </nav>
